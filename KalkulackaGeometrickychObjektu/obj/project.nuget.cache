@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JtvEC9q/SvEFUeRRBnLoXSb+vKBdtQd1dvbpmBnIWgSgE0TfDwbAHkwbZxs1qrs3HGJep0pvd7f3FoIiuBif6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AnastasiaBOZHENKO\\source\\repos\\calculator-nasta\\KalkulackaGeometrickychObjektu\\KalkulackaGeometrickychObjektu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AnastasiaBOZHENKO\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

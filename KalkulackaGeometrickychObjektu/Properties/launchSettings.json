@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KalkulackaGeometrickychObjektu": {
+      "commandName": "Project",
+      "commandLineArgs": "-h"
+    }
+  }
+}
